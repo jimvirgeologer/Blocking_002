@@ -1,0 +1,13 @@
+name: Blocking
+title: Blocking
+username:
+account: mcmadarang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6383837
+bundleId: 6001840
+url: https://mcmadarang.shinyapps.io/Blocking/
+when: 1655101563.70447
+lastSyncTime: 1655101563.70447
+asMultiple: FALSE
+asStatic: FALSE
